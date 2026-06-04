@@ -4,7 +4,7 @@
 > Официальный сайт: [academy-avu.pages.dev/syllabus](https://academy-avu.pages.dev/syllabus)
 
 ---
-
+iii
 ## 🎯 Целевая аудиторияi
 
 Программа разработана для:
